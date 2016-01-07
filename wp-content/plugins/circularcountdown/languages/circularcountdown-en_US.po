@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Circular Countdown v.1.0.0\n"
+"POT-Creation-Date: 2013-12-27 10:48+0200\n"
+"PO-Revision-Date: 2013-12-27 10:48+0200\n"
+"Last-Translator: flashblue <flashblue80@hotmail.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: circularcountdown_admin.php:13
+msgid "Circular Countdown"
+msgstr ""
+
+#: circularcountdown_admin.php:20
+msgid "General"
+msgstr ""
+
+#: circularcountdown_admin.php:25
+msgid "Start Date"
+msgstr ""
+
+#: circularcountdown_admin.php:30
+msgid "End Date"
+msgstr ""
+
+#: circularcountdown_admin.php:35
+msgid "Time Zone"
+msgstr ""
+
+#: circularcountdown_admin.php:40
+msgid "Count Up (Past)"
+msgstr ""
+
+#: circularcountdown_admin.php:46
+msgid "Margin Between Circles"
+msgstr ""
+
+#: circularcountdown_admin.php:52
+msgid "Callback Function"
+msgstr ""
+
+#: circularcountdown_admin.php:61
+msgid "Show/Hide Timers"
+msgstr ""
+
+#: circularcountdown_admin.php:66
+msgid "Show Days"
+msgstr ""
+
+#: circularcountdown_admin.php:72
+msgid "Show Hours"
+msgstr ""
+
+#: circularcountdown_admin.php:78
+msgid "Show Minutes"
+msgstr ""
+
+#: circularcountdown_admin.php:84
+msgid "Show Seconds"
+msgstr ""
+
+#: circularcountdown_admin.php:92
+msgid "Days Diameter"
+msgstr ""
+
+#: circularcountdown_admin.php:98
+msgid "Hours Diameter"
+msgstr ""
+
+#: circularcountdown_admin.php:104
+msgid "Minutes Diameter"
+msgstr ""
+
+#: circularcountdown_admin.php:110
+msgid "Seconds Diameter"
+msgstr ""
+
+#: circularcountdown_admin.php:122
+msgid "Background Width"
+msgstr ""
+
+#: circularcountdown_admin.php:127
+msgid "Days Background Width"
+msgstr ""
+
+#: circularcountdown_admin.php:133
+msgid "Hours Background Width"
+msgstr ""
+
+#: circularcountdown_admin.php:139
+msgid "Minutes Background Width"
+msgstr ""
+
+#: circularcountdown_admin.php:145
+msgid "Seconds Background Width"
+msgstr ""
+
+#: circularcountdown_admin.php:155
+msgid "Circles Width"
+msgstr ""
+
+#: circularcountdown_admin.php:160
+msgid "Days Circle Width"
+msgstr ""
+
+#: circularcountdown_admin.php:166
+msgid "Hours Circle Width"
+msgstr ""
+
+#: circularcountdown_admin.php:172
+msgid "Minutes Circle Width"
+msgstr ""
+
+#: circularcountdown_admin.php:178
+msgid "Seconds Circle Width"
+msgstr ""
+
+#: circularcountdown_admin.php:190
+msgid "Background Color"
+msgstr ""
+
+#: circularcountdown_admin.php:195
+msgid "Days Background Color"
+msgstr ""
+
+#: circularcountdown_admin.php:206
+msgid "Hours Background Color"
+msgstr ""
+
+#: circularcountdown_admin.php:217
+msgid "Minutes Background Color"
+msgstr ""
+
+#: circularcountdown_admin.php:228
+msgid "Seconds Background Color"
+msgstr ""
+
+#: circularcountdown_admin.php:243
+msgid "Circles Color"
+msgstr ""
+
+#: circularcountdown_admin.php:248
+msgid "Days Circle Color"
+msgstr ""
+
+#: circularcountdown_admin.php:259
+msgid "Hours Circle Color"
+msgstr ""
+
+#: circularcountdown_admin.php:270
+msgid "Minutes Circle Color"
+msgstr ""
+
+#: circularcountdown_admin.php:281
+msgid "Seconds Circle Color"
+msgstr ""
+
+#: circularcountdown_admin.php:298
+msgid "Counter Text Size"
+msgstr ""
+
+#: circularcountdown_admin.php:303
+msgid "Days Counter Font Size"
+msgstr ""
+
+#: circularcountdown_admin.php:309
+msgid "Hours Counter Font Size"
+msgstr ""
+
+#: circularcountdown_admin.php:315
+msgid "Minutes Counter Font Size"
+msgstr ""
+
+#: circularcountdown_admin.php:321
+msgid "Seconds Counter Font Size"
+msgstr ""
+
+#: circularcountdown_admin.php:331
+msgid "Text Size"
+msgstr ""
+
+#: circularcountdown_admin.php:336
+msgid "Days Font Size"
+msgstr ""
+
+#: circularcountdown_admin.php:342
+msgid "Hours Font Size"
+msgstr ""
+
+#: circularcountdown_admin.php:348
+msgid "Minutes Font Size"
+msgstr ""
+
+#: circularcountdown_admin.php:354
+msgid "Seconds Font Size"
+msgstr ""
+
+#: circularcountdown_admin.php:366
+msgid "Counter Text Color"
+msgstr ""
+
+#: circularcountdown_admin.php:371
+msgid "Days Counter Font Color"
+msgstr ""
+
+#: circularcountdown_admin.php:382
+msgid "Hours Counter Font Color"
+msgstr ""
+
+#: circularcountdown_admin.php:393
+msgid "Minutes Counter Font Color"
+msgstr ""
+
+#: circularcountdown_admin.php:404
+msgid "Seconds Counter Font Color"
+msgstr ""
+
+#: circularcountdown_admin.php:419
+msgid "Text Color"
+msgstr ""
+
+#: circularcountdown_admin.php:424
+msgid "Days Text Font Color"
+msgstr ""
+
+#: circularcountdown_admin.php:435
+msgid "Hours Text Font Color"
+msgstr ""
+
+#: circularcountdown_admin.php:446
+msgid "Minutes Text Font Color"
+msgstr ""
+
+#: circularcountdown_admin.php:457
+msgid "Seconds Text Font Color"
+msgstr ""
+
+#: circularcountdown_admin.php:474
+msgid "Texts"
+msgstr ""
+
+#: circularcountdown_admin.php:479
+msgid "Days Text"
+msgstr ""
+
+#: circularcountdown_admin.php:484
+msgid "Hours Text"
+msgstr ""
+
+#: circularcountdown_admin.php:489
+msgid "Minutes Text"
+msgstr ""
+
+#: circularcountdown_admin.php:494
+msgid "Seconds Text"
+msgstr ""
+
+#: circularcountdown_admin.php:503
+msgid "Texts Top Margin"
+msgstr ""
+
+#: circularcountdown_admin.php:508
+msgid "Days Text Top Margin"
+msgstr ""
+
+#: circularcountdown_admin.php:514
+msgid "Hours Text Top Margin"
+msgstr ""
+
+#: circularcountdown_admin.php:520
+msgid "Minutes Text Top Margin"
+msgstr ""
+
+#: circularcountdown_admin.php:526
+msgid "Seconds Text Top Margin"
+msgstr ""
+
+#: circularcountdown_admin.php:535
+msgid "Generated Shortcode"
+msgstr ""
+
+#: circularcountdown_admin.php:541
+msgid "Save Changes"
+msgstr ""
+
+#: circularcountdown_admin.php:542
+msgid "Generate Shortcode"
+msgstr ""
+
+#: circularcountdown_admin.php:543
+msgid "Cancel"
+msgstr ""
